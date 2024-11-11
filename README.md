@@ -1,2 +1,2 @@
 # WalletMVC
-WIP project to implement a wallet app capable of transfers using the MVC pattern with C#/.Net
+WIP project to implement a wallet API capable of transfers using the MVC pattern with C#/.Net
